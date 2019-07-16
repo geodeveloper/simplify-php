@@ -10,6 +10,8 @@
  * http://mourner.github.io/simplify-js
 */
 
+namespace Andreychumak\SimplifyPhp;
+
 class Simplify {
 
 	/**
