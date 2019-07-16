@@ -1,5 +1,10 @@
 {
 	"name": "andreychumak/simplify-php",
 	"license": "BSD-2-Clause",
-	"version": "1.0.2"
+	"version": "1.0.2",
+	"autoload": {
+		"psr-4": {
+			"Andreychumak\\SimplifyPhp\\": "/"
+		}
+	}
 }
